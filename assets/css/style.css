@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: 'liberation_sansregular';
+    src: url('../fonts/liberationsans-regular-webfont.eot');
+    src: url('../fonts/liberationsans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/liberationsans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/liberationsans-regular-webfont.woff') format('woff'),
+         url('../fonts/liberationsans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/liberationsans-regular-webfont.svg#liberation_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.experiance {
+background-color: #inherit;
+text-align: center;
+}
+
+.experiance h2{
+  margin-bottom: 40px;
+margin-top: 20px;
+}
+
+.clients_comments {
+  background-color: inherit;
+  padding: 0 40px;
+  height:auto !important;
+}
+.quote{
+  color:#999;
+}
+
+.clients_comments p{
+  color: #505050;
+font-family: "liberation_sansregular";
+font-size: 16px;
+margin: 0 0 12px;
+}
+
+.client-photo{
+border-radius: 5px;
+display: inline-block;
+}
+
+
+.client-name{
+font-weight: bold;
+margin-right: 4px;
+text-transform: uppercase;
+}
+
+.client-designation{
+font-size: 16px;
+font-style: italic;
+}
+
+.bx-wrapper .bx-pager {
+  background:inherit;
+  color: #f2f2f2;
+  font-family: Arial;
+  font-size: 0.85em;
+  font-weight: bold;
+  padding-top: 2px;
+  text-align: center;
+}
+.bx-wrapper {
+  padding: 30px 0;
+  height:auto !important;   
+}
+.bx-wrapper .bx-viewport{box-shadow: 0 0;}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+  bottom: -2px;
+}
